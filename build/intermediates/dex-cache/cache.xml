@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/ImageSwitcher/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="690d27b1e59b4cc8d12fcd285bd6d95a50c4eb62">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/ImageSwitcher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7e84eeabcb93aee83d8220ae3afaa0d69f43faac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/ImageSwitcher/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d673643b9baf474ad11dc818f2dcb28f92348423">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/ImageSwitcher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_50217cbe91676e92307d2844be6e4bf93ec6bb26/classes.dex" />
+    </item>
+
+</items>
